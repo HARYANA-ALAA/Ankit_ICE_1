@@ -32,7 +32,7 @@ public class Card
     /**
      * @param suit the suit to set
      */
-    public void setSuit(String suit) 
+    public void setSuit(String suit)
     {
         this.suit = suit;
     }
@@ -40,7 +40,7 @@ public class Card
     /**
      * @return the value
      */
-    public int getValue() 
+    public int getValue()
     {
         return value;
     }
@@ -48,7 +48,7 @@ public class Card
     /**
      * @param value the value to set
      */
-    public void setValue(int value) 
+    public void setValue(int value)
     {
         this.value = value;
         
